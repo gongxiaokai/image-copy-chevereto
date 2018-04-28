@@ -22,9 +22,3 @@ These settings can be accessed under Settings -> Packages -> image-copy-cheveret
 # Errors
 
 Cannot paste .gif.
-
-If you get errors like `request modules not found`
-
-Update your dependencies, enter `cmd + shift + p`
-
-Choose `dependencies update`
